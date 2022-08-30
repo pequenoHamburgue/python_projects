@@ -4,4 +4,4 @@ you just need to enter the file name identical to your in mp4 video in your fold
 and
 set a new name file in mp3
 
-você não precisa inserir extensão dos arquvos. ".mp4" e ".mp3"
+you don't need to enter extension of the files. ".mp4" and ".mp3"
